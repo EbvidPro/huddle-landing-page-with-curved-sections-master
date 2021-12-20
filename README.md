@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://github.com/EbvidPro/huddle-landing-page-with-curved-section)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-kx9jLxI_p)
 - Live Site URL: [here](https://huddle-landingpage-oluwatobi.netlify.app/)
 
 ## My process
