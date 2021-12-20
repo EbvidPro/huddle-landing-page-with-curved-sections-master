@@ -32,6 +32,12 @@ button:hover {
   text-align: center;
   padding: 2rem 10rem;
 }
+.intro h1 {
+  font-size: 38px;
+}
+h2 {
+  font-size: 25px;
+}
 .intro p {
   padding: 0 8em 20px 8em;
 }
@@ -219,9 +225,15 @@ footer input {
   .nav {
     padding: 30px 3rem;
   }
+  h2 {
+    font-size: auto;
+  }
   .intro {
     text-align: center;
     padding: 2rem 3rem;
+  }
+  .intro h1 {
+    font-size: 30px;
   }
   .intro p {
     padding: 0 3em 20px 3em;
@@ -274,6 +286,9 @@ footer input {
   .intro {
     text-align: center;
     padding: 2rem 1rem;
+  }
+  .intro h1 {
+    font-size: auto;
   }
   .intro p {
     padding: 0 1em 20px 1em;
