@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections solution
 
-This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/EbvidPro/huddle-landing-page-with-curved-section)
+- Live Site URL: [here](https://huddle-landingpage-oluwatobi.netlify.app/)
 
 ## My process
 
@@ -38,19 +38,15 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
-I realy learnt a lot during this challenge. I was able to learn about Pseudo in css. Both the Pseudo class and Pseudo elements. 
+I realy learnt a lot during this challenge. I was able to learn about Pseudo in css. Both the Pseudo class and Pseudo elements.
 
 One full-column ':' is used for the classes and two full-column '::' is used for the Elements
-
-
 
 ### Continued development
 
 Although I didn't use it to complete this challenge, because I'm still yet to get full graps of it. I want to focus on using the Pseudo classes. I want to go beyond the ::before and ::after Pseudo Elements.
-
 
 ### Useful resources
 

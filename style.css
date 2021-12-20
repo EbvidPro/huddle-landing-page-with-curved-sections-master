@@ -52,6 +52,12 @@ button:hover {
   padding: 3rem 10rem;
   text-align: center;
 }
+.firstSection p,
+.secondSection p,
+.thirdSection p,
+.fourthSection p {
+  padding-right: 15px;
+}
 .mockUp {
   width: 100%;
 }
@@ -242,6 +248,12 @@ footer input {
     grid-template-columns: auto;
     text-align: center;
     padding: 3rem;
+  }
+  .firstSection p,
+  .secondSection p,
+  .thirdSection p,
+  .fourthSection p {
+    padding-right: 0px;
   }
   .footer {
     grid-template-columns: auto;
