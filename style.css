@@ -1,0 +1,311 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+}
+h1,
+h2,
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+button:hover {
+  cursor: pointer;
+}
+.logo {
+  width: 28%;
+}
+.nav {
+  padding: 40px 5rem;
+}
+.nav button {
+  float: right;
+  border-radius: 50px;
+  padding: 5px 12px;
+  background-color: transparent;
+  border: 2px solid hsl(322, 100%, 66%);
+}
+.nav button:hover {
+  border: 2px solid hsl(321, 100%, 78%);
+}
+.intro {
+  text-align: center;
+  padding: 2rem 10rem;
+}
+.intro p {
+  padding: 0 8em 20px 8em;
+}
+.intro button,
+.fifthSection button {
+  padding: 15px 5em;
+  border-radius: 50px;
+  color: white;
+  background-color: hsl(322, 100%, 66%);
+  border: none;
+  box-shadow: 2px 6px 10px rgba(0, 0, 0, 0.253);
+}
+.intro button:hover,
+.fifthSection button:hover {
+  background-color: hsl(321, 100%, 78%);
+}
+.firstSection {
+  padding: 3rem 10rem;
+  text-align: center;
+}
+.mockUp {
+  width: 100%;
+}
+.engagement {
+  padding-top: 5em;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 30px;
+}
+.engagement img {
+  width: 8%;
+}
+.secondSection,
+.thirdSection,
+.fourthSection,
+.footer {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 30px;
+  padding: 5rem;
+}
+.secondSection img,
+.thirdSection img,
+.fourthSection img {
+  width: 100%;
+}
+.fifthSection {
+  padding: 5rem;
+  text-align: center;
+}
+.secondSection,
+.fourthSection {
+  background-color: #f6fbff;
+}
+.curve1,
+.footerCurve {
+  margin-bottom: -5px;
+  padding: 0;
+}
+.curve1 img,
+.curve2 img,
+.footerCurve img,
+.curve1-bottom img,
+.curve2-bottom img {
+  width: 100%;
+}
+/* TRYING TO LEARN PSEUDO ELEMENT. NOT YET GOOD AT IT 
+SO DO NOT UNCOMMENT 
+
+.secondSection::before {
+  content: "";
+  display: block;
+  position: relative;
+  background-image: url("/images/bg-section-top-desktop-1.svg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.secondSection::after {
+  content: "";
+  display: block;
+  position: relative;
+  background-image: url("/images/bg-section-bottom-desktop-1.svg");
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  width: 100%;
+  height: 100%;
+  right: 0;
+  left: 0;
+} */
+/* .fourthSection::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 157rem;
+  left: 0;
+  right: 0;
+  background-image: url("/images/bg-section-top-desktop-2.svg");
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+.fourthSection::after {
+  content: "";
+  display: block;
+  position: absolute;
+  background-image: url("/images/bg-section-bottom-desktop-2.svg");
+  background-repeat: no-repeat;
+  background-position-y: 26.5rem;
+  width: 100%;
+  height: 100%;
+  right: 0;
+  left: 0;
+} */
+.growTogether,
+.conversations,
+.yourUsers {
+  padding-top: 5em;
+}
+footer {
+  color: white;
+  background-color: hsl(192, 100%, 9%);
+}
+/* footer::before {
+  content: "";
+  display: block;
+  background-image: url("/images/bg-footer-top-desktop.svg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 221rem;
+  position: absolute;
+  z-index: -1;
+} */
+footer .logo {
+  width: 40%;
+  filter: brightness(10%) invert(100%) grayscale(150%);
+  padding-bottom: 20px;
+}
+footer button {
+  margin-left: 20px;
+  color: white;
+  background-color: hsl(322, 100%, 66%);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+footer input {
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+}
+.contact img {
+  padding-right: 10px;
+}
+.contact p {
+  display: inline-block;
+}
+.attribution {
+  padding-bottom: 10px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 900px) {
+  .logo {
+    width: 33%;
+  }
+  .nav {
+    padding: 30px 3rem;
+  }
+  .intro {
+    text-align: center;
+    padding: 2rem 3rem;
+  }
+  .intro p {
+    padding: 0 3em 20px 3em;
+  }
+  .intro button,
+  .fifthSection button {
+    padding: 15px 4em;
+  }
+  .firstSection {
+    padding: 3rem 5rem;
+    text-align: center;
+  }
+  .secondSection,
+  .fourthSection {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 3rem;
+  }
+  .fifthSection {
+    padding: 3rem;
+  }
+  .thirdSection {
+    grid-template-columns: auto;
+    text-align: center;
+    padding: 3rem;
+  }
+  .footer {
+    grid-template-columns: auto;
+    padding: 3rem;
+  }
+  .engagement {
+    grid-template-columns: auto;
+    grid-gap: 5em;
+  }
+}
+@media screen and (max-width: 500px) {
+  .logo {
+    width: 40%;
+  }
+  .nav {
+    padding: 30px 1rem;
+  }
+  .intro {
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+  .intro p {
+    padding: 0 1em 20px 1em;
+  }
+  .intro button,
+  .fifthSection button {
+    padding: 15px 2em;
+  }
+  .firstSection {
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  .secondSection,
+  .fourthSection {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 1rem;
+  }
+  .fifthSection {
+    padding: 1rem;
+  }
+  .thirdSection {
+    grid-template-columns: auto;
+    text-align: center;
+    padding: 1rem;
+  }
+  .footer {
+    padding: 1rem;
+  }
+  .engagement {
+    grid-template-columns: auto;
+    grid-gap: 5em;
+  }
+}
+@media screen and (max-width: 380px) {
+  .logo {
+    width: 50%;
+  }
+  footer button {
+    margin: 10px 0;
+    float: right;
+  }
+  footer input {
+    float: right;
+  }
+}
