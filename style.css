@@ -209,6 +209,13 @@ footer input {
 .contact p {
   display: inline-block;
 }
+.social-icons {
+  padding-top: 15px;
+  filter: brightness(10%) invert(100%) grayscale(150%);
+}
+.social-icons img {
+  padding-left: 15px;
+}
 .attribution {
   padding-bottom: 10px;
   font-size: 11px;

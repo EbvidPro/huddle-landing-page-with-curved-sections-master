@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/EbvidPro/huddle-landing-page-with-curved-section)
+- Solution URL: [here](https://github.com/EbvidPro/huddle-landing-page-with-curved-section)
 - Live Site URL: [here](https://huddle-landingpage-oluwatobi.netlify.app/)
 
 ## My process
@@ -53,10 +53,8 @@ Although I didn't use it to complete this challenge, because I'm still yet to ge
 - [Resource 1](https://youtu.be/OtBpgtqrjyo) - This helped me in understanding Pseudo classes and Element. I really liked this pattern and will use it going forward.
 - [Resource 2](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Oluwatobi David](https://ebvidpro.github.io/Oluwatobi-David/)
+- Frontend Mentor - [@EbvidPro](https://www.frontendmentor.io/profile/EbvidPro)
+- Twitter - [@OluwatobiDave](https://twitter.com/OluwatobiDave)
