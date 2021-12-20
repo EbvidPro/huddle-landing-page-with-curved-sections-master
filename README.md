@@ -6,7 +6,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,9 +13,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,10 +22,6 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -62,8 +54,8 @@ Although I didn't use it to complete this challenge, because I'm still yet to ge
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me in understanding Pseudo classes and Element. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://youtu.be/OtBpgtqrjyo) - This helped me in understanding Pseudo classes and Element. I really liked this pattern and will use it going forward.
+- [Resource 2](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
